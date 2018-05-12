@@ -1,0 +1,31 @@
+_repo: The-Law-and-the-Poor_36045
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parry, Edward Abbott, Sir
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '4416'
+    url: http://www.gutenberg.org/2009/agents/4416
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Abbott_Parry
+description: ''
+gutenberg_issued: '2011-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36045'
+  lccn: '15003073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Law -- England'
+- !lcsh 'Poor -- England'
+- !lcsh 'Poor laws -- England'
+- !lcsh 'Working class -- England'
+- !lcc 'KD'
+title: The Law and the Poor
+url: http://www.gutenberg.org/ebooks/36045
